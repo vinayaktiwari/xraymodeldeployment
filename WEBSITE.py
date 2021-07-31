@@ -51,13 +51,6 @@ def load_model_from_file():
     #myGraph = tf.compat.v1.get_default_graph()
     return (myModel,mySession)
 
-app.listen(process.env.PORT || 3000, function()
-{
-  console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
-});
-
-
-
 
 
 
