@@ -61,7 +61,7 @@ def allowed_file(filename):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
 
 #Define the view for the top level page
-@app.route('/', methods=['GET', 'POST'])
+@app.route('/', methods=['GET'])
 def upload_file():
     #Initial webpage load
     if request.method == 'GET' :
