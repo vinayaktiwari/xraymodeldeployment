@@ -1,17 +1,17 @@
 
-click
+
 Flask
-idna
+
 itsdangerous
 Jinja2
 joblib
 jsonify
 MarkupSafe
-numpy
+
 
 tensorflow
 
-urllib3
+
 Werkzeug
 wincertstore
 gunicorn
