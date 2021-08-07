@@ -2,9 +2,9 @@
 
 Flask
 
-itsdangerous
+
 Jinja2
-joblib
+
 jsonify
 MarkupSafe
 
@@ -13,6 +13,6 @@ tensorflow
 
 
 Werkzeug
-wincertstore
+
 gunicorn
 
