@@ -3,11 +3,6 @@
 Flask
 
 
-Jinja2
-
-jsonify
-MarkupSafe
-
 
 tensorflow
 
