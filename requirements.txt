@@ -1,5 +1,4 @@
-certifi
-chardet
+
 click
 Flask
 idna
@@ -9,11 +8,9 @@ joblib
 jsonify
 MarkupSafe
 numpy
-requests
-scikit-learn
-scipy
-sklearn
-threadpoolctl
+
+keras
+
 urllib3
 Werkzeug
 wincertstore
