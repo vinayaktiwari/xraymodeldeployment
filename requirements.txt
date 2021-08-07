@@ -9,7 +9,7 @@ jsonify
 MarkupSafe
 numpy
 
-keras
+tensorflow
 
 urllib3
 Werkzeug
