@@ -18,4 +18,4 @@ urllib3
 Werkzeug
 wincertstore
 gunicorn
-tensorflow
+
